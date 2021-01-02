@@ -1,2 +1,2 @@
-# ScrapingOnAmazon
-test on scraping the amazon website
+# Scraping On Amazon
+Just a test on scraping the amazon website
